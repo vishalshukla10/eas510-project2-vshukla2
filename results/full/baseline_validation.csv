@@ -1,0 +1,3 @@
+model,eval_set,split,precision,recall,f1,pr_auc,roc_auc,fpr
+logreg,validation,random stratified 70/15/15,1.0,0.9996683910332935,0.9998341680209611,0.9999999165321538,0.9999999377013856,0.0
+random_forest,validation,random stratified 70/15/15,1.0,1.0,1.0,1.0,1.0,0.0
